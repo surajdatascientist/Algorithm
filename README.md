@@ -1,2 +1,3 @@
 # Algorithm
-All type of Algorithm in C++ for Practics
+All type of Algorithm in C++ for Practics.
+
